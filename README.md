@@ -2,8 +2,6 @@
 
 A real-time dashboard built with Python and Streamlit to monitor public health risks in Melbourne, Australia. This tool aggregates data from various sources to provide a unified view of environmental and health-related risks.
 
-![App Screenshot](file:///Users/imperial/.gemini/antigravity/brain/8bc7c71f-7104-4acd-8be3-ae907fbfc623/streamlit_app_loaded_1771013676217.png)
-
 ## 🌟 Features
 
 -   **Interactive Risk Map**: Visualize health risks across Melbourne with real-time markers.
